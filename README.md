@@ -1,7 +1,5 @@
 <header>
-  ```yml
-theme:minima
-  ```
+  ```ymltheme:minima```
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
